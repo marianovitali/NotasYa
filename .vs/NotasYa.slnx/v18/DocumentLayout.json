@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maroo\\source\\repos\\NotasYa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{659D74C1-C55F-4D38-9AAA-06BB6AEF4148}|NotasYa.Application\\NotasYa.Application.csproj|c:\\users\\maroo\\source\\repos\\notasya\\notasya.application\\notasya.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{659D74C1-C55F-4D38-9AAA-06BB6AEF4148}|NotasYa.Application\\NotasYa.Application.csproj|solutionrelative:notasya.application\\notasya.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CB9A55-390B-4274-A37A-6DF7C459E788}|NotasYa.Api\\NotasYa.Api.csproj|c:\\users\\maroo\\source\\repos\\notasya\\notasya.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28CB9A55-390B-4274-A37A-6DF7C459E788}|NotasYa.Api\\NotasYa.Api.csproj|solutionrelative:notasya.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotasYa.Application",
+              "DocumentMoniker": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Application\\NotasYa.Application.csproj",
+              "RelativeDocumentMoniker": "NotasYa.Application\\NotasYa.Application.csproj",
+              "ToolTip": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Application\\NotasYa.Application.csproj",
+              "RelativeToolTip": "NotasYa.Application\\NotasYa.Application.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-09T19:09:24.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "NotasYa.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Api\\appsettings.json",
+              "RelativeToolTip": "NotasYa.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-09T19:24:57.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="NotasYa.Api/NotasYa.Api.csproj" />
+  <Project Path="NotasYa.Application/NotasYa.Application.csproj" />
+  <Project Path="NotasYa.Domain/NotasYa.Domain.csproj" />
+  <Project Path="NotasYa.Infraestructure/NotasYa.Infraestructure.csproj" />
+</Solution>
