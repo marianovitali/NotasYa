@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NotasYa.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c82f94b775d6ef92612e7c8f2e379a836a972e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("NotasYa.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NotasYa.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
