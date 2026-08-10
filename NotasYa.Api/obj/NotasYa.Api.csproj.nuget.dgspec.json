@@ -36,8 +36,8 @@
               "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Application\\NotasYa.Application.csproj": {
                 "projectPath": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Application\\NotasYa.Application.csproj"
               },
-              "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\NotasYa.Infraestructure.csproj": {
-                "projectPath": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\NotasYa.Infraestructure.csproj"
+              "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\NotasYa.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\NotasYa.Infrastructure.csproj"
               }
             }
           }
@@ -1191,12 +1191,12 @@
         }
       }
     },
-    "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\NotasYa.Infraestructure.csproj": {
+    "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\NotasYa.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\NotasYa.Infraestructure.csproj",
-        "projectName": "NotasYa.Infraestructure",
-        "projectPath": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\NotasYa.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\NotasYa.Infrastructure.csproj",
+        "projectName": "NotasYa.Infrastructure",
+        "projectPath": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\NotasYa.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\maroo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
@@ -1247,6 +1247,10 @@
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[10.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[10.0.10, )"
             },

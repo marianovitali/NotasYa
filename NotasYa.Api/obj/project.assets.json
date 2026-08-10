@@ -57,6 +57,22 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore/10.0.10": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Relational": "10.0.10"
+        },
+        "compile": {
+          "lib/net10.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.OpenApi/10.0.10": {
         "type": "package",
         "dependencies": {
@@ -552,21 +568,22 @@
           "bin/placeholder/NotasYa.Domain.dll": {}
         }
       },
-      "NotasYa.Infraestructure/1.0.0": {
+      "NotasYa.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": "10.0.10",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "10.0.10",
           "Microsoft.EntityFrameworkCore": "10.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "10.0.10",
           "NotasYa.Application": "1.0.0",
           "NotasYa.Domain": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/NotasYa.Infraestructure.dll": {}
+          "bin/placeholder/NotasYa.Infrastructure.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NotasYa.Infraestructure.dll": {}
+          "bin/placeholder/NotasYa.Infrastructure.dll": {}
         }
       }
     }
@@ -626,6 +643,22 @@
         "lib/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.xml",
         "microsoft.aspnetcore.authentication.jwtbearer.10.0.10.nupkg.sha512",
         "microsoft.aspnetcore.authentication.jwtbearer.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Identity.EntityFrameworkCore/10.0.10": {
+      "sha512": "/ZV8RMWbWob1ZGsF5f1wVJNNlFLPKCf2ba834PpQiNhirVQ/ksup5SujtuUsvByHEZgv+9dmjC/4Xdi75axmXQ==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.identity.entityframeworkcore/10.0.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "PACKAGE.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net10.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll",
+        "lib/net10.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml",
+        "microsoft.aspnetcore.identity.entityframeworkcore.10.0.10.nupkg.sha512",
+        "microsoft.aspnetcore.identity.entityframeworkcore.nuspec"
       ]
     },
     "Microsoft.AspNetCore.OpenApi/10.0.10": {
@@ -1278,10 +1311,10 @@
       "path": "../NotasYa.Domain/NotasYa.Domain.csproj",
       "msbuildProject": "../NotasYa.Domain/NotasYa.Domain.csproj"
     },
-    "NotasYa.Infraestructure/1.0.0": {
+    "NotasYa.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../NotasYa.Infraestructure/NotasYa.Infraestructure.csproj",
-      "msbuildProject": "../NotasYa.Infraestructure/NotasYa.Infraestructure.csproj"
+      "path": "../NotasYa.Infraestructure/NotasYa.Infrastructure.csproj",
+      "msbuildProject": "../NotasYa.Infraestructure/NotasYa.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1289,7 +1322,7 @@
       "Microsoft.AspNetCore.OpenApi >= 10.0.10",
       "Microsoft.OpenApi >= 2.7.5",
       "NotasYa.Application >= 1.0.0",
-      "NotasYa.Infraestructure >= 1.0.0"
+      "NotasYa.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1328,8 +1361,8 @@
             "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Application\\NotasYa.Application.csproj": {
               "projectPath": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Application\\NotasYa.Application.csproj"
             },
-            "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\NotasYa.Infraestructure.csproj": {
-              "projectPath": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\NotasYa.Infraestructure.csproj"
+            "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\NotasYa.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\NotasYa.Infrastructure.csproj"
             }
           }
         }

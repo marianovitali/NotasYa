@@ -4,7 +4,7 @@ using System.Text;
 
 namespace NotasYa.Domain.Entities
 {
-    internal class SchoolYear
+    public class SchoolYear
     {
         public int Id { get; set; }
         public int Year { get; set; }

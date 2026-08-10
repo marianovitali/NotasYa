@@ -1,10 +1,11 @@
-﻿using System;
+﻿using NotasYa.Domain.Enums;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace NotasYa.Domain.Entities
 {
-    internal class Course
+    public class Course
     {
         public int Id { get; set; }
         public int Year { get; set; }
@@ -12,8 +13,11 @@ namespace NotasYa.Domain.Entities
         public SchoolShift Shift { get; set; }
 
         public int SchoolYearId { get; set; }
+
+        public SchoolYear SchoolYear { get; set; } = null!;
         public ICollection<Student> Students { get; set; } = new List<Student>();
         public ICollection<TeachingAssignment> TeachingAssignments { get; set; } = new List<TeachingAssignment>();
+
 
     }
 }
