@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\maroo\\source\\repos\\NotasYa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{659D74C1-C55F-4D38-9AAA-06BB6AEF4148}|NotasYa.Application\\NotasYa.Application.csproj|c:\\users\\maroo\\source\\repos\\notasya\\notasya.application\\notasya.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{659D74C1-C55F-4D38-9AAA-06BB6AEF4148}|NotasYa.Application\\NotasYa.Application.csproj|solutionrelative:notasya.application\\notasya.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\Migrations\\20260813201308_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NotasYa.Infraestructure\\Migrations\\20260813201308_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28CB9A55-390B-4274-A37A-6DF7C459E788}|NotasYa.Api\\NotasYa.Api.csproj|c:\\users\\maroo\\source\\repos\\notasya\\notasya.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{28CB9A55-390B-4274-A37A-6DF7C459E788}|NotasYa.Api\\NotasYa.Api.csproj|solutionrelative:notasya.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C0E2A3DF-3DAC-74CC-A6F9-3970C6D932E6}|NotasYa.Api\\NotasYa.Api.csproj|c:\\users\\maroo\\source\\repos\\notasya\\notasya.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E2A3DF-3DAC-74CC-A6F9-3970C6D932E6}|NotasYa.Api\\NotasYa.Api.csproj|solutionrelative:notasya.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E2A3DF-3DAC-74CC-A6F9-3970C6D932E6}|NotasYa.Api\\NotasYa.Api.csproj|c:\\users\\maroo\\source\\repos\\notasya\\notasya.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0E2A3DF-3DAC-74CC-A6F9-3970C6D932E6}|NotasYa.Api\\NotasYa.Api.csproj|solutionrelative:notasya.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40235330-80F2-81DA-897B-2EACEB318A30}|NotasYa.Infraestructure\\NotasYa.Infrastructure.csproj|c:\\users\\maroo\\source\\repos\\notasya\\notasya.infraestructure\\data\\notasyadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40235330-80F2-81DA-897B-2EACEB318A30}|NotasYa.Infraestructure\\NotasYa.Infrastructure.csproj|solutionrelative:notasya.infraestructure\\data\\notasyadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 334,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NotasYa.Application",
-              "DocumentMoniker": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Application\\NotasYa.Application.csproj",
-              "RelativeDocumentMoniker": "NotasYa.Application\\NotasYa.Application.csproj",
-              "ToolTip": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Application\\NotasYa.Application.csproj",
-              "RelativeToolTip": "NotasYa.Application\\NotasYa.Application.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-09T19:09:24.787Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
@@ -43,15 +38,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260813201308_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\Migrations\\20260813201308_InitialCreate.cs",
+              "RelativeDocumentMoniker": "NotasYa.Infraestructure\\Migrations\\20260813201308_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\Migrations\\20260813201308_InitialCreate.cs",
+              "RelativeToolTip": "NotasYa.Infraestructure\\Migrations\\20260813201308_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T20:13:09.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Api\\Program.cs",
+              "RelativeDocumentMoniker": "NotasYa.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Api\\Program.cs",
+              "RelativeToolTip": "NotasYa.Api\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T20:08:29.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Api\\appsettings.json",
               "RelativeDocumentMoniker": "NotasYa.Api\\appsettings.json",
               "ToolTip": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Api\\appsettings.json",
               "RelativeToolTip": "NotasYa.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-09T19:24:57.406Z",
+              "WhenOpened": "2026-08-13T20:07:34.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotasYaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\Data\\NotasYaDbContext.cs",
+              "RelativeDocumentMoniker": "NotasYa.Infraestructure\\Data\\NotasYaDbContext.cs",
+              "ToolTip": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\Data\\NotasYaDbContext.cs",
+              "RelativeToolTip": "NotasYa.Infraestructure\\Data\\NotasYaDbContext.cs",
+              "ViewState": "AgIAABUAAAAAwqG3eEAUwCgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T19:50:55.943Z",
               "EditorCaption": ""
             }
           ]

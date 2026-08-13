@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\maroo\\source\\repos\\NotasYa\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E2A3DF-3DAC-74CC-A6F9-3970C6D932E6}|NotasYa.Api\\NotasYa.Api.csproj|c:\\users\\maroo\\source\\repos\\notasya\\notasya.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E2A3DF-3DAC-74CC-A6F9-3970C6D932E6}|NotasYa.Api\\NotasYa.Api.csproj|solutionrelative:notasya.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E2A3DF-3DAC-74CC-A6F9-3970C6D932E6}|NotasYa.Api\\NotasYa.Api.csproj|c:\\users\\maroo\\source\\repos\\notasya\\notasya.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0E2A3DF-3DAC-74CC-A6F9-3970C6D932E6}|NotasYa.Api\\NotasYa.Api.csproj|solutionrelative:notasya.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40235330-80F2-81DA-897B-2EACEB318A30}|NotasYa.Infraestructure\\NotasYa.Infrastructure.csproj|c:\\users\\maroo\\source\\repos\\notasya\\notasya.infraestructure\\data\\notasyadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40235330-80F2-81DA-897B-2EACEB318A30}|NotasYa.Infraestructure\\NotasYa.Infrastructure.csproj|solutionrelative:notasya.infraestructure\\data\\notasyadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 334,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +31,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Api\\Program.cs",
+              "RelativeDocumentMoniker": "NotasYa.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Api\\Program.cs",
+              "RelativeToolTip": "NotasYa.Api\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T20:08:29.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "NotasYa.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Api\\appsettings.json",
+              "RelativeToolTip": "NotasYa.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-13T20:07:34.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotasYaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\Data\\NotasYaDbContext.cs",
+              "RelativeDocumentMoniker": "NotasYa.Infraestructure\\Data\\NotasYaDbContext.cs",
+              "ToolTip": "C:\\Users\\maroo\\source\\repos\\NotasYa\\NotasYa.Infraestructure\\Data\\NotasYaDbContext.cs",
+              "RelativeToolTip": "NotasYa.Infraestructure\\Data\\NotasYaDbContext.cs",
+              "ViewState": "AgIAABUAAAAAwqG3eEAUwCgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T19:50:55.943Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -8,12 +8,16 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.11">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
     <PackageReference Include="Microsoft.OpenApi" Version="2.7.5" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\NotasYa.Application\NotasYa.Application.csproj" />
-    <ProjectReference Include="..\NotasYa.Infraestructure\NotasYa.Infraestructure.csproj" />
+    <ProjectReference Include="..\NotasYa.Infraestructure\NotasYa.Infrastructure.csproj" />
   </ItemGroup>
 
   <ItemGroup>
