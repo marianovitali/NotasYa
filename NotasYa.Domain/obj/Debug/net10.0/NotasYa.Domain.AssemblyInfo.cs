@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NotasYa.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65b6b7b76df2a50aacbd9e3f8a213b061276c7b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b51fc335d117409550316015191f6341b9251aa9")]
 [assembly: System.Reflection.AssemblyProductAttribute("NotasYa.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NotasYa.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
